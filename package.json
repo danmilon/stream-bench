@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:danmilon/streams-benchmark.git"
+    "url": "git@github.com:danmilon/stream-bench.git"
   },
   "keywords": [
     "streams",
